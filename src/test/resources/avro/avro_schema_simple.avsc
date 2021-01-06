@@ -1,0 +1,9 @@
+{
+ "namespace": "com.pjcode",
+ "name": "test",
+ "type": "record",
+ "fields": [
+  {"name": "id","type": "int"},
+  {"name": "username","type": ["null", "string"]}
+ ]
+}
