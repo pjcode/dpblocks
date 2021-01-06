@@ -1,2 +1,3 @@
 # dpblocks
-Java based, schema centric framework for data processing based on Apache NiFi Record Based Framework
+
+Schema centric framwork for processing data in Java applications, based on Apache NiFi Record Based Framework  
